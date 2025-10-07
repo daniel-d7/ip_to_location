@@ -1,0 +1,37 @@
+[
+  {
+    "name": "country",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": "Country Name",
+    "fields": []
+  },
+  {
+    "name": "region",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": "Region/Continent Name",
+    "fields": []
+  },
+  {
+    "name": "city",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": "City Name",
+    "fields": []
+  },
+  {
+    "name": "_id",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": "MongoDB _id",
+    "fields": []
+  },
+  {
+    "name": "ip",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": "IP Address",
+    "fields": []
+  }
+]
